@@ -6,7 +6,7 @@
 
 🛠️ Мой стек технологий: **React + VKUI**, **Node.JS**, **HTML5**, **CSS3**, **JavaScript**, **MySQL**.  
 
-👋 VK: [Сергей Ушаков](https://vk.com/id214477552)  
-💬 Telegram: [Сергей Ушаков](https://t.me/smdkx)
+👋 VK: [@gray](https://vk.com/id214477552)  
+💬 Telegram: [@smdkx](https://t.me/smdkx)
 
 💻 Рабочий конь: MacBook Pro 14" M1 Pro.

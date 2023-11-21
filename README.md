@@ -9,4 +9,4 @@
 👋 VK: [@gray](https://vk.com/id214477552)  
 💬 Telegram: [@smdkx](https://t.me/smdkx)
 
-💻 Рабочий конь: MacBook Pro 14" M1 Pro.
+💻 Working Laptop: MacBook Pro 14" M1 Pro.

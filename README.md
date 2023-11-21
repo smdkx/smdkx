@@ -9,4 +9,4 @@
 👋 VK: [@gray](https://vk.com/id214477552)  
 💬 Telegram: [@smdkx](https://t.me/smdkx)
 
-💻 Working Laptop: MacBook Pro 14" M1 Pro.
+💻 Laptop: MacBook Pro 14" M1 Pro.

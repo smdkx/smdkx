@@ -6,7 +6,7 @@
 
 🛠️ Мой стек технологий и инструменты: **React**, **VKUI**, **Node.JS**, **HTML5**, **CSS3**, **JavaScript**, **MongoDB**, **MySQL**, **TeamCity**, **XCode**, **GIT**.  
 
-👋 VK: [@uc](https://vk.com/id214477552)  
+👋 VK: [@uc](https://vk.com/uc)  
 💬 Telegram: [@smdkx](https://t.me/smdkx)
 
 💻 Laptop: MacBook Pro 14" M4 Pro.

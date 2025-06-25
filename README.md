@@ -6,10 +6,10 @@
 
 🛠️ Мой стек технологий и инструменты: **React**, **VKUI**, **Node.JS**, **HTML5**, **CSS3**, **JavaScript**, **MongoDB**, **MySQL**, **TeamCity**, **XCode**, **GIT**.  
 
-👋 VK: [@gray](https://vk.com/id214477552)  
+👋 VK: [@uc](https://vk.com/id214477552)  
 💬 Telegram: [@smdkx](https://t.me/smdkx)
 
-💻 Laptop: MacBook Pro 14" M1 Pro.
+💻 Laptop: MacBook Pro 14" M4 Pro.
 
 ### 👨‍💻 Актуальные проекты:
 
